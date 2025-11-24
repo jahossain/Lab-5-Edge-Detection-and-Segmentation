@@ -9,3 +9,9 @@ I then applied the Laplacian of Gaussian (LoG) operator, which detects edges bas
 For the segmentation part, I applied Otsu’s thresholding, which automatically selects the optimal threshold value based on the image histogram. This converts the grayscale image into a binary mask by separating pixels into foreground and background. Finally, I labeled the connected regions and visualized them using false-color mapping, which helps to understand how many distinct segments or objects exist in the binary image.
 
 Overall, this lab showed how different edge-detection operators respond to the same image, why Canny is considered the most reliable for clean edges, and how histogram-based thresholding like Otsu can be used to segment an image automatically.
+
+![image](
+![image](
+![image](
+![image](
+![image](
