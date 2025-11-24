@@ -11,7 +11,7 @@ For the segmentation part, I applied Otsu’s thresholding, which automatically 
 Overall, this lab showed how different edge-detection operators respond to the same image, why Canny is considered the most reliable for clean edges, and how histogram-based thresholding like Otsu can be used to segment an image automatically.
 
 ![image](https://github.com/jahossain/Lab-5-Edge-Detection-and-Segmentation/blob/main/Screenshot%202025-11-24%20231712.png)
-![image](
+![image](https://github.com/jahossain/Lab-5-Edge-Detection-and-Segmentation/blob/main/Screenshot%202025-11-24%20231722.png)
 ![image](
 ![image](
 ![image](
