@@ -13,5 +13,5 @@ Overall, this lab showed how different edge-detection operators respond to the s
 ![image](https://github.com/jahossain/Lab-5-Edge-Detection-and-Segmentation/blob/main/Screenshot%202025-11-24%20231712.png)
 ![image](https://github.com/jahossain/Lab-5-Edge-Detection-and-Segmentation/blob/main/Screenshot%202025-11-24%20231722.png)
 ![image](https://github.com/jahossain/Lab-5-Edge-Detection-and-Segmentation/blob/main/Screenshot%202025-11-24%20231730.png)
-![image](
+![image](https://github.com/jahossain/Lab-5-Edge-Detection-and-Segmentation/blob/main/Screenshot%202025-11-24%20231736.png)
 ![image](
